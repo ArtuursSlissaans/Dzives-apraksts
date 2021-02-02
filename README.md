@@ -14,30 +14,30 @@ elif num == 0:
 else:
    print("Negative number") ```
 
-#### Bildes
+**Bildes**
 
- [python](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fpython%2Fcpython&psig=AOvVaw2EOF9TJiV38ge7zKBQp_u3&ust=1612348339282000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOi-5OX_yu4CFQAAAAAdAAAAABAD)
+ [python](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F459648705704077871%2F&psig=AOvVaw1X9Gh4rpvVrtGIiMWLsDsQ&ust=1612348677513000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNicloWBy-4CFQAAAAAdAAAAABAD)
 
 
  ![RVT logo](rvt.jpg)
 
-Saraksts
+**Saraksts**
 
 - [x] Izmazgāt zobus
 - [ ] Aiziet uz veikalu
 - [ ] Uztaisīt ēdienu
 
- Tabula
+ **Tabula**
 
 | vārdi | Uzvārdi |
 | ----------- | ----------- |
 | Artūrs | Slišāns |
 | Edgars | Slišāns |
 
-Horizontāla līnija
+**Horizontāla līnija**
 
 ----------------------------------------------------------
 
-Emoji
+**Emoji**
 
-[emoji](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.iemoji.com%2Fview%2Femoji%2F1853%2Fsmileys-people%2Fthinking-face&psig=AOvVaw2C9B7rSVHUnAN8Ezu5sW_V&ust=1612347611158000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCh2Iv9yu4CFQAAAAAdAAAAABAD)
+😎😎😎😎😎
