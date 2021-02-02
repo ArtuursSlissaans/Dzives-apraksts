@@ -2,9 +2,7 @@
 
 ## Citāts
 
- > Sveiki, mani sauc Artūrs Slišāns man ir 16 gadi, es mācos Rīgas Valsts tehnikumā, DP1-4, dzīvoju Rīgā,Latvijā. Pirms iestājos RVT es mācijos Rīgas Angļu ģimnāzijā. Man ir bijuši daudzi hobbiji kā: Florbools, Judo, Jaunsardze, tennis,
- 
-  bet viss jaunākais hobbijs man ir vollejbols.
+ > Sveiki, mani sauc Artūrs Slišāns man ir 16 gadi, es mācos Rīgas Valsts tehnikumā, DP1-4, dzīvoju Rīgā,Latvijā. Pirms iestājos RVT es mācijos Rīgas Angļu ģimnāzijā. Man ir bijuši daudzi hobbiji kā: Florbools, Judo, Jaunsardze, tennis, bet viss jaunākais hobbijs man ir vollejbols.
 
 ### Cods kas pārbaud vai skaitlis ir pozitīvs vai negatīvs
 
@@ -18,28 +16,28 @@ else:
 
 #### Bildes
 
-[pyhton](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmorioh.com%2Fp%2F4ed59fce8730&psig=AOvVaw3UfOuxcASRDtPnBg8-xOEk&ust=1612345823656000&source=images&cd=vfe&ved=2ahUKEwjwtO6x9sruAhVDAXcKHZ94BmoQjRx6BAgAEAc)
+ [python](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fpython%2Fcpython&psig=AOvVaw2EOF9TJiV38ge7zKBQp_u3&ust=1612348339282000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOi-5OX_yu4CFQAAAAAdAAAAABAD)
 
 
  ![RVT logo](rvt.jpg)
 
-##### Saraksts
+Saraksts
 
 - [x] Izmazgāt zobus
 - [ ] Aiziet uz veikalu
 - [ ] Uztaisīt ēdienu
 
-###### tabula
+ Tabula
 
 | vārdi | Uzvārdi |
 | ----------- | ----------- |
 | Artūrs | Slišāns |
 | Edgars | Slišāns |
 
-####### Horizontāla līnija
+Horizontāla līnija
 
 ----------------------------------------------------------
 
-######## Emoji
+Emoji
 
-[emoji](http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/thinking-face.png)
+[emoji](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.iemoji.com%2Fview%2Femoji%2F1853%2Fsmileys-people%2Fthinking-face&psig=AOvVaw2C9B7rSVHUnAN8Ezu5sW_V&ust=1612347611158000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCh2Iv9yu4CFQAAAAAdAAAAABAD)
