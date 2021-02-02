@@ -16,7 +16,7 @@ else:
 
  Bildes
 
- ![python](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F459648705704077871%2F&psig=AOvVaw1X9Gh4rpvVrtGIiMWLsDsQ&ust=1612348677513000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNicloWBy-4CFQAAAAAdAAAAABAD)
+ [python](https://www.pinterest.com/pin/459648705704077871/)
 
 
  ![RVT logo](rvt.jpg)
